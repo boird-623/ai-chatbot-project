@@ -22,5 +22,6 @@ pip install gradio anthropic
 python app.py
 
 📸 效果截图
-<img width="2043" height="1172" alt="image" src="https://github.com/user-attachments/assets/892fc338-7b8f-41ff-9ea9-8cd781cd122a" />
+<img width="2457" height="1193" alt="image" src="https://github.com/user-attachments/assets/746bdc76-a50d-4cc8-b077-75023d9dd204" />
+
 
